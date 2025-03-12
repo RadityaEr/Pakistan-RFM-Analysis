@@ -1,4 +1,4 @@
-# Dashboard
+# RFM Analysis of Pakistan's Largest E-Commerce Dataset: Customer Segmentation & Insights Dashboard
 ![image](https://github.com/user-attachments/assets/bd1472f2-3789-437e-b1c2-c6e84638d955)
 
 This is my personal project to learn how to Analyze a Dataset and build a dashboard in Power BI. The dataset is acquired from [Kaggle](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset/data).
